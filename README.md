@@ -9,6 +9,19 @@ To classify text sequences using an LSTM-based deep learning model. This experim
 - Total samples: 5,572  
 - Classes: `ham` (non-spam) and `spam`
 
+## Suggested Datasets (Use at least 10 samples)
+
+1. **IMDb Movie Reviews** – Sentiment Analysis  
+2. **SMS Spam Collection Dataset** – Spam Detection  
+3. **Amazon Product Reviews** – Product Sentiment  
+4. **Yelp Reviews Dataset** – Restaurant/Service Reviews  
+5. **Twitter Sentiment Analysis Dataset** – Tweet-based Emotion Detection  
+6. **Toxic Comment Classification Dataset** – Detect Toxic Language  
+7. **Sarcasm Detection Dataset** – News Headlines  
+8. **BBC News Classification Dataset** – News Topic Classification  
+9. **Disaster Tweets Classification** – Detect Real Disaster Tweets  
+10. **Fake News Detection Dataset** – Identify Misinformation
+
 ## 🧪 Steps Performed
 
 ### 1. 📥 Data Loading and Exploration
